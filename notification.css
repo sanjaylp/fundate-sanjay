@@ -1,0 +1,60 @@
+  .note-main-one{
+    height: 700px;
+    width: 100%;
+    
+ } 
+
+.note-main-one b
+{
+  position: relative;
+  right: 25%;
+  top: 38px;
+  font-size: 20px; 
+
+  /* font-family: 'Montserrat'; */
+
+}
+#notif-one{
+    position: relative;
+    right: 25%;
+    top: 10px;
+    color: rgb(7, 137, 188);
+    font-size: 20px;
+    margin-top: -700px;
+ }
+.note-sub-one{
+    height: 70px;
+    width: 75%;
+    background-color:rgb(230, 221, 221);
+margin-top: 50px;
+position: relative;
+left: 20%;
+}
+#note-name-one{
+    float: left;
+    margin-left: 55px;
+    margin-top: 20px;
+   
+}
+#note-time-one{
+    float: right;
+    margin-right: 15px;
+    margin-top: 20px;
+}
+.note-sub-one img{
+    height: 50px;
+    width: 5%;
+    border: 1px solid black;
+    padding: 5px;
+    float: left;
+    position: relative;
+    top: 3px;
+    left: 40px;
+    border-radius: 50%;
+}
+#yest-one{
+    margin-left: 3%;
+    position: relative;
+    top: 45px;
+
+}  

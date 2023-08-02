@@ -1,0 +1,234 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+.side-main-one {
+  width: 100%;
+  height: 700px;
+}
+.sid-min-one p {
+  font-size: 30px;
+  /* font-family: "Montserrat"; */
+  position: relative;
+  bottom: 80px;
+}
+.side-min-one ul {
+  list-style: none;
+}
+
+.sid-min-one {
+  width: 15%;
+  height: 700px;
+  background-color:rgb(247, 229, 229) ;
+  border-right: 2px solid black;
+  display: flex;
+  /* position: absolute; */
+  bottom: 41px;
+ left: 2px;
+  justify-content: center;
+  position: relative;
+}
+.sid-min-one li {
+  font-size: 20px;
+  display: flex;
+  padding-top: 20px;
+  position: relative;
+  /* font-family: "Montserrat"; */
+  color: black;
+}
+.sid-min-one a {
+  text-decoration: none;
+}
+
+#min-dash-one {
+  position: relative;
+  right: 10px;
+  top: 4px;
+  color: black;
+}
+#min-user-one {
+  position: relative;
+  right: 10px;
+  top: 4px;
+}
+#min-stat-one {
+  position: relative;
+  right: 10px;
+  top: 4px;
+}
+#min-not-one {
+  position: relative;
+  right: 10px;
+  top: 4px;
+}
+#min-sett-one {
+  position: relative;
+  right: 10px;
+  top: 4px;
+}
+#min-prof-one {
+  position: relative;
+  right: 10px;
+  top: 4px;
+}
+#min-log-one {
+  position: relative;
+  right: 10px;
+  top: 4px;
+}
+#min-main-one {
+  position: relative;
+  right: 30px;
+}
+
+/* usermain */
+ .user-main-one {
+  width: 100%;
+  position: relative;
+
+  height: 700px;
+
+} 
+
+.headline-one ul {
+  border-bottom: 1px solid;
+
+  list-style: none;
+  background-color: rgb(151, 145, 145);
+  height: 50px;
+}
+.clear {
+  clear: both;
+}
+.headline-one {
+  width: 100%;
+}
+
+.headlin-one li {
+ float: left;
+  top: 13px;
+  padding-left: 115px;
+  position: relative;
+  right: 40px;
+}
+
+#status-one li {
+  padding-right: 10px;
+}
+
+.user-one {
+  height: 700px;
+  width: 84%;
+  position: relative;
+  left:15%;
+  float: left;
+  margin-top: -740px;
+
+
+
+
+  background-color: rgb(250, 247, 247);
+}
+
+.users-one ul {
+  
+  list-style: none;
+  height: 60px;
+  padding-left: 120px;
+
+}
+
+#head-id{
+  float: left;
+ position: relative;
+ left: 56px;
+
+ top: 10px;
+
+}
+#head-name{
+  float: left;
+  position: relative;
+  left: 285px;
+  top: 10px;
+}
+#head-mail{
+  float: left;
+  position: relative;
+  left: 99px;
+  top: 10px;
+}
+#head-num{
+  float: left;
+  position: relative;
+  left: 34%;
+  top: 10px;
+}
+#head-age{
+  float: left;
+  position: relative;
+  left: 43%;
+  top: 10px;
+}
+#head-stat{
+  float: left;
+  position: relative;
+
+  left: 49%;
+
+  top: 10px;
+}
+#head-act{
+position: absolute;
+left: 78%;
+top: 10px;
+
+}
+
+
+.users-one li {
+  float: left;
+  margin-top: 15px;
+  padding-left: 83px;
+  position: relative;
+  right: 151px;
+  /* font-family: "Montserrat"; */
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

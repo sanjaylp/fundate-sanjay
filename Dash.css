@@ -1,0 +1,77 @@
+/* .dash-main-one{
+    height: 700px;
+    width: 100%; 
+    margin-top: -700px;
+  opacity: 70%;
+  position: relative;
+    /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAzCkOmxgE5kvIFD1KnSpaYdwbK-5XnpU3sw&usqp=CAU");
+    background-repeat: no-repeat; */
+
+.ssss-one{
+  position: absolute;
+  
+}
+.dash-main-one{
+  background-color: ;
+}
+
+
+
+.people-one{
+    position: relative;
+    height: 170px;
+    width: 16%;
+    left: 20%;
+    top: 50px;
+  border: 1px solid black;
+  margin-top: -700px;
+    border-radius: 30px;
+    background-color:rgb(247, 229, 229) ;
+
+}
+.people-one i{
+    padding: 10px;
+font-size: 40px;
+position: relative;
+right: 50px;
+top: 40px;
+border: 1px solid black;
+border-radius: 50%;
+
+}
+.people-one p{
+    position: relative;
+    top: 40px;
+    font-size: 40px;
+}
+.revenue-one{
+  position: relative;
+  height: 170px;
+  width: 16%;
+  left: 40%;
+
+  bottom: 120px;
+border: 1px solid black;
+  border-radius: 30px;
+  background-color:rgb(247, 229, 229) ;
+}
+
+
+
+.revenue-one i{
+    padding: 15px;
+font-size: 45px;
+position: relative;
+/* right: 50px; */
+top: 30px;
+border: 1px solid black;
+border-radius: 50%;
+
+}
+
+.revenue-one p{
+    position: relative;
+    top: 25px;
+    font-size: 40px;
+}
+

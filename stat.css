@@ -1,0 +1,12 @@
+.user-stat-one{
+  width: 100%;
+  height: 700px;
+
+}
+.user-image-one{
+  width: 83%;
+  height: 700px;
+  position: relative;
+  left: 10%;
+  margin-top: -700px;
+}
